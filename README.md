@@ -1,4 +1,5 @@
 [lab1_solution_pdf.pdf](https://github.com/user-attachments/files/32392747/lab1_solution_pdf.pdf)
+
 images
 <img width="1323" height="623" alt="github_actual_name" src="https://github.com/user-attachments/assets/098847ae-b0c2-4a30-807f-d05e5f1faa7d" />
 <img width="1334" height="610" alt="github_profile" src="https://github.com/user-attachments/assets/fb69ed9f-55b3-432b-871d-4d8d96913428" />
