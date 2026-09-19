@@ -1,5 +1,4 @@
-<img width="1271" height="571" alt="ubuntu_server_selection" src="https://github.com/user-attachments/assets/a5acccb2-f126-4480-b1f9-3de3eff6581f" />
-<img width="1272" height="660" alt="ubuntu_language" src="https://github.com/user-attachments/assets/9ad180e0-0d2e-47bb-8b14-2a430e61b9af" />
+
 [lab1_solution_pdf.pdf](https://github.com/user-attachments/files/32392747/lab1_solution_pdf.pdf)
 
 images
@@ -14,3 +13,5 @@ images
 <img width="983" height="589" alt="vm_configuration_summary" src="https://github.com/user-attachments/assets/fe219101-cad6-42fd-9839-496a122471c6" />
 <img width="1345" height="691" alt="vm_typical_configuration" src="https://github.com/user-attachments/assets/7c9f9ddd-d8cb-4abc-9e9a-e122aecda307" />
 <img width="975" height="616" alt="vm_ubuntu_iso_selected" src="https://github.com/user-attachments/assets/e96c8bd3-3ffc-4c7e-a0db-8a66797e21c7" />
+<img width="1271" height="571" alt="ubuntu_server_selection" src="https://github.com/user-attachments/assets/a5acccb2-f126-4480-b1f9-3de3eff6581f" />
+<img width="1272" height="660" alt="ubuntu_language" src="https://github.com/user-attachments/assets/9ad180e0-0d2e-47bb-8b14-2a430e61b9af" />
