@@ -6,3 +6,8 @@ images
 <img width="1326" height="608" alt="lab1_folder_structure" src="https://github.com/user-attachments/assets/50552ecc-31a8-4ac8-9f3f-60a7965b61ac" />
 <img width="879" height="600" alt="portal_login_page" src="https://github.com/user-attachments/assets/ab6cc1aa-b74b-4d8b-9793-4a71b7dbb054" />
 <img width="1333" height="610" alt="portal_enrollment_submitted" src="https://github.com/user-attachments/assets/ce66cfc2-3072-4e86-b661-0c125caf6ece" />
+<img width="407" height="260" alt="ubuntu_server_iso" src="https://github.com/user-attachments/assets/ea277453-864e-4aa2-81c9-609d846cebfa" />
+<img width="1070" height="629" alt="ubuntu_installation" src="https://github.com/user-attachments/assets/c6226a96-39f3-4ea1-b127-27733cf13700" />
+<img width="983" height="589" alt="vm_configuration_summary" src="https://github.com/user-attachments/assets/fe219101-cad6-42fd-9839-496a122471c6" />
+<img width="1345" height="691" alt="vm_typical_configuration" src="https://github.com/user-attachments/assets/7c9f9ddd-d8cb-4abc-9e9a-e122aecda307" />
+<img width="975" height="616" alt="vm_ubuntu_iso_selected" src="https://github.com/user-attachments/assets/e96c8bd3-3ffc-4c7e-a0db-8a66797e21c7" />
