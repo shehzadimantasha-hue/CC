@@ -1,3 +1,5 @@
+<img width="1271" height="571" alt="ubuntu_server_selection" src="https://github.com/user-attachments/assets/a5acccb2-f126-4480-b1f9-3de3eff6581f" />
+<img width="1272" height="660" alt="ubuntu_language" src="https://github.com/user-attachments/assets/9ad180e0-0d2e-47bb-8b14-2a430e61b9af" />
 [lab1_solution_pdf.pdf](https://github.com/user-attachments/files/32392747/lab1_solution_pdf.pdf)
 
 images
